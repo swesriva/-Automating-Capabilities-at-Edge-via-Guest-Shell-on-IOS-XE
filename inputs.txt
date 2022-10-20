@@ -1,0 +1,7 @@
+10.196.8.7
+2052
+10.197.249.54
+5050
+Gi0/0/3
+#order of inputs: telnet_ip,telnet_port,IP,GUESTSHELL_PORT,GUESTSHELL_INTERFACE
+#Port for guestshell must be greater than 1024 (>1024)
