@@ -122,7 +122,7 @@ Device# guestshell disable
 ***Deactivates and uninstalls the Guest Shell service.***
 Device# guestshell destroy
 ```
-###Learning lab URL
+### Learning lab URL
 
 ```
 https://developer.cisco.com/learning/tracks/EN-Networking-v0/EN-Networking-Fundamentals-v0/intro-guestshell/enabling-guest-shell/
